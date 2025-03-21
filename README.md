@@ -1,5 +1,9 @@
 #Spotify Analysis
 
+- <a href="https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks">Dataset Used</a>
+- <a href="https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks">View Dashboard</a>
+- <a href="https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks">View Additonal Visualizations</a>
+
 INTRODUCTION: 
   Through the use of Python and Tableau, myself and my team explored and analyzed Spotify song data with the intention of determining what the trends are in the music industry. More specifically, we wanted to determine what makes songs popular. 
   By identifying what features of a song make it popular, the music industry can make better data driven decisions to maximize success. Artists and record labels could utilize this insight to write, produce, and market their songs more strategically, ensuring that their releases align with popularity trends. Additionally, streaming services could benefit from this knowledge to help enhance their recommendation algorithms which in turn can help improve user engagement and experience by promoting songs with the highest potential for popularity. 
