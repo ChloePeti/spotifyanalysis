@@ -1,7 +1,7 @@
 #Spotify Analysis
 
 - <a href="https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks">Dataset Used</a>
-- <a href="[https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks](https://github.com/ChloePeti/spotifyanalysis/blob/main/Spotify%20Dashboard2.png)">View Dashboard</a>
+- <a href="Spotify Dashboard2.png">View Dashboard</a>
 - <a href="Spotify Dashboard1.png">View Additonal Visualizations</a>
 
 INTRODUCTION: 
