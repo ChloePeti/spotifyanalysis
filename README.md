@@ -1,11 +1,11 @@
 #Spotify Analysis
+  Through the use of Python and Tableau, myself and my team explored and analyzed Spotify song data with the intention of determining what the trends are in the music industry. More specifically, we wanted to determine what makes songs popular. 
 
 - <a href="https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks">Dataset Used</a>
 - <a href="Spotify Dashboard2.png">View Dashboard</a>
 - <a href="Spotify Dashboard1.png">View Additonal Visualizations</a>
 
 INTRODUCTION: 
-  Through the use of Python and Tableau, myself and my team explored and analyzed Spotify song data with the intention of determining what the trends are in the music industry. More specifically, we wanted to determine what makes songs popular. 
   By identifying what features of a song make it popular, the music industry can make better data driven decisions to maximize success. Artists and record labels could utilize this insight to write, produce, and market their songs more strategically, ensuring that their releases align with popularity trends. Additionally, streaming services could benefit from this knowledge to help enhance their recommendation algorithms which in turn can help improve user engagement and experience by promoting songs with the highest potential for popularity. 
   In this project, we are analyzing a dataset from Spotify’s Web API covering nearly a century of music from 1921 to 2020. We examined a variety of audio features including the following: danceability, speechiness, acousticness, explicit content, valence, liveness, key, year, energy, duration, tempo, instrumentalness, energy, and year. By examining the relationship between these attributes and a song’s popularity score, we aim to identify the most influential predictors of success.
   
@@ -29,3 +29,4 @@ Liveness:  Songs with higher liveness scores tend to be less popular
 Speechiness: Songs with more spoken content tend to be significantly less popular
 Valance: Songs that are more positive (i.e. higher valance) tend to be more popular. 
 
+ In the end, we found that newer songs are generally more popular. As seen in <a href="Spotify Dashboard1.png">this</a> visual, recently released songs tend to be more popular, even when they are remastered or re-recorded versions. However, the data also reveals a discrepancy in this trend—a cluster of songs from 2000 to 2021 is less popular than expected. While we cannot say for certain, we theorize that this group of outliers may be due to advancements in technology that have enabled more individuals to create and release their own music. Additionally, many factors contribute to a song’s popularity. Generally, songs with higher valence, danceability, and explicit content tend to be more popular. We also observed that more popular songs are less instrumental. Our theory is that this may be because many of today’s popular artists are solo performers rather than bands.
