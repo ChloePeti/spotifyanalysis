@@ -2,7 +2,7 @@
 
 - <a href="https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks">Dataset Used</a>
 - <a href="https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks">View Dashboard</a>
-- <a href="https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks">View Additonal Visualizations</a>
+- <a href="[https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks](https://github.com/ChloePeti/spotifyanalysis/blob/main/Spotify%20Dashboard1.png)">View Additonal Visualizations</a>
 
 INTRODUCTION: 
   Through the use of Python and Tableau, myself and my team explored and analyzed Spotify song data with the intention of determining what the trends are in the music industry. More specifically, we wanted to determine what makes songs popular. 
