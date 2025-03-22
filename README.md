@@ -1,4 +1,5 @@
 #Spotifyanalysis
+  
   Through the use of Python and Tableau, myself and my team explored and analyzed Spotify song data with the intention of understanding music industry trends. More specifically, we wanted to determine what makes songs popular. My specific contributions surrounded writing and refining the code that was utilized to clean the dataset as well as perform the regression analysis and produce the final summary statistics and coefficient tables. I also created the final dashboard featured below after the completion of our project in order to display our findings in one cohesive image.
 
 - <a href="https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks">Dataset Used</a>
